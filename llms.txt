@@ -16,10 +16,12 @@
 |-------|---------|
 | **Title** | Stand Like Hussain (Official EP.) |
 | **Written By** | [Abu Sayed](https://abusayed.com.bd/) |
-| **Written On** | May 26, 2026 |
+| **Written On** | January 31, 2026 |
+| **Created On** | March 31, 2026 |
+| **Released On** | May 26, 2026 |
 | **Song Page** | [Open Song Page](https://imabusayed.github.io/stand-like-hussain-official-ep/) |
 | **License** | [View License](./LICENSE.md) |
-| **Get License** | [License this song: Stand Like Hussain (Official EP.)](https://music.abusayed.com.bd/Licensing/?https://imabusayed.github.io/stand-like-hussain-official-ep/) |
+| **Get License** | [Official Music Licensing for Stand Like Hussain (Official EP.)](https://music.abusayed.com.bd/Licensing/?https://www.youtube.com/watch?v=vWhaDH6jjNs?https://imabusayed.github.io/stand-like-hussain-official-ep/) |
 | **Author** | Abu Sayed |
 | **Rights** | All Rights Reserved |
 
@@ -49,6 +51,7 @@
 ## 🔗 Song Links
 
 - [Telegram](https://t.me/AbuSayedMusic/2206)
+- [YouTube](https://www.youtube.com/watch?v=vWhaDH6jjNs)
 
 ---
 
