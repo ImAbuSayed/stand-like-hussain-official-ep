@@ -2,7 +2,7 @@
 
 ---
 
-![Stand Like Hussain (Official EP.) feature image](F:/MyMusicAlbum/New Songs From Suno/Stand Like Hussain – Abu Sayed  Official Music  English Islamic Inspirational Nasheed 2026.webp)
+![Stand Like Hussain (Official EP.) feature image](https://raw.githubusercontent.com/ImAbuSayed/abu-sayed-song-media/main/images/stand-like-hussain-official-ep/feature/20260526170518506053-Stand-Like-Hussain-Abu-Sayed-Official-Music-English-Islamic-Inspirational-Nasheed-2026.webp)
 
 ---
 
@@ -21,7 +21,7 @@
 | **Released On** | May 26, 2026 |
 | **Song Page** | [Open Song Page](https://imabusayed.github.io/stand-like-hussain-official-ep/) |
 | **License** | [View License](./LICENSE.md) |
-| **Get License** | [License this song: Stand Like Hussain (Official EP.)](https://music.abusayed.com.bd/Licensing/?https://www.youtube.com/watch?v=vWhaDH6jjNs?https://imabusayed.github.io/stand-like-hussain-official-ep/) |
+| **Get License** | [Secure Licensing Rights for Stand Like Hussain (Official EP.)](https://music.abusayed.com.bd/Licensing/?https://www.youtube.com/watch?v=vWhaDH6jjNs?https://imabusayed.github.io/stand-like-hussain-official-ep/) |
 | **Author** | Abu Sayed |
 | **Rights** | All Rights Reserved |
 
